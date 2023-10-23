@@ -2,7 +2,6 @@
 
 L'objectif principal  de cette application Spring réside dans sa capacité à assurer la gestion des données étudiantes. Elle offre la possibilité de consulter les données des étudiants, de suivre leur nombre, et également de créer ou supprimer des profils étudiants.<br/>
 
-#TEST
 <ul>
       <li> ous allez trouver le test des différents services implémentés.<br/></li>
       <li>Durant ces tests, j'ai utilisé Postman comme plateforme de test des API<br/></li>
